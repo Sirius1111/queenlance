@@ -1,0 +1,12 @@
+@import "fonts";
+@import "vars";
+@import "classes";
+
+
+
+main{
+    font-family: $main-font;
+    &.dark{
+        background: #222;
+    }
+}

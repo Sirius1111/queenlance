@@ -1,0 +1,36 @@
+{
+	"Print to console": {
+		"scope": "scss",
+		"prefix": "media",
+		"body": [
+	"// /*==========  Desktop First  ==========*/",	
+    "// ≥1200px",
+    "",
+    "@include media-breakpoint-down(lg){",
+		  " ","$1",
+    "}",
+    "",
+    "// ≥992px",
+    "@include media-breakpoint-down(md){",
+		  "",
+    "}",
+    "",
+    "// ≥768px",
+    "@include media-breakpoint-down(sm){",
+		  "",
+    "}",
+    "",
+    "// ≥480px",
+    "@include media-breakpoint-down(ss){",
+		  "",
+	  "}",
+    "",	
+    "// 0",
+    "@include media-breakpoint-down(xs){",
+       "",
+    "}",
+    
+		],
+		"description": "media-screen"
+	}
+}

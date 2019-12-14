@@ -1,0 +1,12 @@
+@import "_mixins/font-face";
+@import "./libs/font-awesome/fontawesome.scss";
+@import "./libs/font-awesome/solid.scss";
+@import "./libs/font-awesome/brands.scss";
+@import "./libs/font-awesome/regular.scss";
+
+@include font-face("Roboto", "../fonts/Roboto/Robotoblack", 800);
+@include font-face("Roboto", "../fonts/Roboto/Robotobold", 600);
+@include font-face("Roboto", "../fonts/Roboto/Robotomedium", 500);
+@include font-face("Roboto", "../fonts/Roboto/Roboto", 400);
+@include font-face("Roboto", "../fonts/Roboto/Robotolight", 300);
+@include font-face("Roboto", "../fonts/Roboto/Robotothin", 200);
