@@ -1,12 +1,19 @@
-@import "fonts";
-@import "vars";
-@import "classes";
+@import "_Fonts";
+@import "_Vars";
+@import "_Classes";
+
+
+@import "./sections/header.scss";
+@import "./sections/top.scss";
+@import "./sections/main_inforamtion.scss";
 
 
 
 main{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
     font-family: $main-font;
-    &.dark{
-        background: #222;
-    }
 }

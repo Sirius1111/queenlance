@@ -1,0 +1,278 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/06/2016 15:04
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-airbrush-painting-tool:before { content: "\f100"; }
+.flaticon-ambulance-with-first-aid-sign:before { content: "\f101"; }
+.flaticon-apple:before { content: "\f102"; }
+.flaticon-apple-with-big-bite:before { content: "\f103"; }
+.flaticon-atomic-structure-made-of-circles-and-lines:before { content: "\f104"; }
+.flaticon-bacon-strips-outline:before { content: "\f105"; }
+.flaticon-bacteria:before { content: "\f106"; }
+.flaticon-balancing-scale-variant:before { content: "\f107"; }
+.flaticon-ball-outline-with-shadow-at-the-edge:before { content: "\f108"; }
+.flaticon-balloon:before { content: "\f109"; }
+.flaticon-banana-of-four-pieces-outline:before { content: "\f10a"; }
+.flaticon-band-aid-outline-variant:before { content: "\f10b"; }
+.flaticon-baseball-ball-outline:before { content: "\f10c"; }
+.flaticon-basketball-ball-variant:before { content: "\f10d"; }
+.flaticon-bed-empty-side-view:before { content: "\f10e"; }
+.flaticon-bed-with-a-person-lying-on-it:before { content: "\f10f"; }
+.flaticon-bible-with-cross-sign-in-front:before { content: "\f110"; }
+.flaticon-bishop-chess-piece-outline:before { content: "\f111"; }
+.flaticon-blackboard-with-letters-abc:before { content: "\f112"; }
+.flaticon-blind-eye-sign:before { content: "\f113"; }
+.flaticon-body-weighing-scale-tool:before { content: "\f114"; }
+.flaticon-bone-outline-variant:before { content: "\f115"; }
+.flaticon-bottle-with-bubbles:before { content: "\f116"; }
+.flaticon-bow-tie-variant:before { content: "\f117"; }
+.flaticon-bowling-ball:before { content: "\f118"; }
+.flaticon-bowling-pin-outline:before { content: "\f119"; }
+.flaticon-bowling-pins-variant-outline:before { content: "\f11a"; }
+.flaticon-boxed-layout-with-mark-on-the-northwest-direction:before { content: "\f11b"; }
+.flaticon-brain:before { content: "\f11c"; }
+.flaticon-brightness-and-contrast-adjustment:before { content: "\f11d"; }
+.flaticon-brush:before { content: "\f11e"; }
+.flaticon-cake-slice-with-cherries-on-top:before { content: "\f11f"; }
+.flaticon-center-square-selected-in-layout-grid:before { content: "\f120"; }
+.flaticon-champagne-glass-with-drink:before { content: "\f121"; }
+.flaticon-chess-piece:before { content: "\f122"; }
+.flaticon-chinese-temple:before { content: "\f123"; }
+.flaticon-christian-cross-symbol:before { content: "\f124"; }
+.flaticon-cigarette-lighted-up:before { content: "\f125"; }
+.flaticon-circle-and-cone-outlines-with-shadow:before { content: "\f126"; }
+.flaticon-circle-and-cube-with-shadow:before { content: "\f127"; }
+.flaticon-circle-cube-and-cone-outlines:before { content: "\f128"; }
+.flaticon-circle-outline-of-small-size:before { content: "\f129"; }
+.flaticon-circle-outline-of-small-size-connected-to-arrow-pointing-to-the-right:before { content: "\f12a"; }
+.flaticon-circle-shape:before { content: "\f12b"; }
+.flaticon-circular-target-variant:before { content: "\f12c"; }
+.flaticon-claw-graphic:before { content: "\f12d"; }
+.flaticon-coat-hanger-thin-outline:before { content: "\f12e"; }
+.flaticon-cocktail-drink-on-wine-glass:before { content: "\f12f"; }
+.flaticon-cocktail-glass:before { content: "\f130"; }
+.flaticon-comb-tool-silhouette:before { content: "\f131"; }
+.flaticon-compass-tool-variant:before { content: "\f132"; }
+.flaticon-cone-object-with-shadow-at-the-edges:before { content: "\f133"; }
+.flaticon-contrast-adjustment-symbol:before { content: "\f134"; }
+.flaticon-contrast-circle-symbol:before { content: "\f135"; }
+.flaticon-correction-fluid-with-open-cap-and-brush:before { content: "\f136"; }
+.flaticon-cowboy-hat-variant:before { content: "\f137"; }
+.flaticon-cube-and-cone-with-shadows:before { content: "\f138"; }
+.flaticon-cube-variant-with-shadow:before { content: "\f139"; }
+.flaticon-cubes-in-stack-with-shadow:before { content: "\f13a"; }
+.flaticon-cup-of-hot-drink-on-saucer:before { content: "\f13b"; }
+.flaticon-cylindrical-object-in-two-dimensions:before { content: "\f13c"; }
+.flaticon-diamonds-playing-card:before { content: "\f13d"; }
+.flaticon-dice-cube-outline:before { content: "\f13e"; }
+.flaticon-disability:before { content: "\f13f"; }
+.flaticon-dna-outline-symbol:before { content: "\f140"; }
+.flaticon-drink-glass:before { content: "\f141"; }
+.flaticon-dumbbell-pixel-variant:before { content: "\f142"; }
+.flaticon-ear:before { content: "\f143"; }
+.flaticon-eight-ball-billiards:before { content: "\f144"; }
+.flaticon-electric-iron-variant-with-wire:before { content: "\f145"; }
+.flaticon-ellipse-outline-shape-variant:before { content: "\f146"; }
+.flaticon-ellipse-vector-format:before { content: "\f147"; }
+.flaticon-eraser-used-to-remove-black-line:before { content: "\f148"; }
+.flaticon-eye-mask-with-handle:before { content: "\f149"; }
+.flaticon-eye-with-thick-outline-variant:before { content: "\f14a"; }
+.flaticon-eyeglasses:before { content: "\f14b"; }
+.flaticon-feeding-bottle:before { content: "\f14c"; }
+.flaticon-football-ball-outline:before { content: "\f14d"; }
+.flaticon-fork-graphic:before { content: "\f14e"; }
+.flaticon-fountain-pen-of-large-size:before { content: "\f14f"; }
+.flaticon-fried-egg-with-bacon:before { content: "\f150"; }
+.flaticon-front-black-square-shape-with-rectangles-at-both-sides:before { content: "\f151"; }
+.flaticon-gambling-chips-variant:before { content: "\f152"; }
+.flaticon-gauze-bandage-roll-outline:before { content: "\f153"; }
+.flaticon-geometrical-shapes-set:before { content: "\f154"; }
+.flaticon-glass-and-fork:before { content: "\f155"; }
+.flaticon-goal-ball:before { content: "\f156"; }
+.flaticon-goal-box-with-net:before { content: "\f157"; }
+.flaticon-goblet-variant-with-white-details:before { content: "\f158"; }
+.flaticon-golf-ball-with-dents:before { content: "\f159"; }
+.flaticon-golf-club-iron-variant:before { content: "\f15a"; }
+.flaticon-golf-club-variant-in-diagonal-position:before { content: "\f15b"; }
+.flaticon-golf-flag-with-pole:before { content: "\f15c"; }
+.flaticon-golf-putter-tool:before { content: "\f15d"; }
+.flaticon-graduation-hat-silhouette-variant:before { content: "\f15e"; }
+.flaticon-graduation-hat-with-diploma:before { content: "\f15f"; }
+.flaticon-graph-fork:before { content: "\f160"; }
+.flaticon-graph-self-loop-symbol:before { content: "\f161"; }
+.flaticon-graph-triangle-outline:before { content: "\f162"; }
+.flaticon-graphic-connection:before { content: "\f163"; }
+.flaticon-hamburger-variant-with-cheese-patty-and-lettuce:before { content: "\f164"; }
+.flaticon-hand-closed-fist-outline:before { content: "\f165"; }
+.flaticon-hand-count-zero:before { content: "\f166"; }
+.flaticon-hand-counting-four:before { content: "\f167"; }
+.flaticon-hand-counting-to-three-outline:before { content: "\f168"; }
+.flaticon-hand-finger-pointing-to-left:before { content: "\f169"; }
+.flaticon-hand-finger-pointing-to-right:before { content: "\f16a"; }
+.flaticon-hand-finger-pointing-to-right-1:before { content: "\f16b"; }
+.flaticon-hand-finger-pointing-up:before { content: "\f16c"; }
+.flaticon-hand-gesture-outline-with-thumb-pointing-to-left:before { content: "\f16d"; }
+.flaticon-hand-holding-credit-card:before { content: "\f16e"; }
+.flaticon-hand-in-thumb-down-gesture-outline:before { content: "\f16f"; }
+.flaticon-hand-in-thumbs-up-position:before { content: "\f170"; }
+.flaticon-hand-offer:before { content: "\f171"; }
+.flaticon-hand-outline-pointing-upward:before { content: "\f172"; }
+.flaticon-hand-resembling-a-gun-gesture:before { content: "\f173"; }
+.flaticon-hand-showing-number-four-gesture:before { content: "\f174"; }
+.flaticon-hand-spread-gesture:before { content: "\f175"; }
+.flaticon-hand-stopping-gesture:before { content: "\f176"; }
+.flaticon-hand-with-finger-pointing-to-the-left:before { content: "\f177"; }
+.flaticon-handbag-with-white-border:before { content: "\f178"; }
+.flaticon-handshake-cartoon-gesture:before { content: "\f179"; }
+.flaticon-happy-and-sad-theater-masks:before { content: "\f17a"; }
+.flaticon-hat-outline-with-black-lining:before { content: "\f17b"; }
+.flaticon-heart-shape-silhouette-with-wings:before { content: "\f17c"; }
+.flaticon-heart-with-lifeline-variant:before { content: "\f17d"; }
+.flaticon-hexagon-geometrical-shape-outline:before { content: "\f17e"; }
+.flaticon-horizontal-square-layout:before { content: "\f17f"; }
+.flaticon-horse-chess-piece-outline-variant:before { content: "\f180"; }
+.flaticon-hospital-buildings:before { content: "\f181"; }
+.flaticon-ice-cream-on-cone:before { content: "\f182"; }
+.flaticon-ice-cream-on-stick-silhouette:before { content: "\f183"; }
+.flaticon-knife-and-fork-silhouette-variants:before { content: "\f184"; }
+.flaticon-knife-fork-and-spoon-tools:before { content: "\f185"; }
+.flaticon-knot-outline-symbol:before { content: "\f186"; }
+.flaticon-layout-square-with-black-square-at-southmost-center:before { content: "\f187"; }
+.flaticon-layout-west-symbology-grid:before { content: "\f188"; }
+.flaticon-lectern-with-microphone:before { content: "\f189"; }
+.flaticon-lemon-silhouette-with-white-details:before { content: "\f18a"; }
+.flaticon-letter-i-shape-with-two-small-squares:before { content: "\f18b"; }
+.flaticon-lollipop:before { content: "\f18c"; }
+.flaticon-marionette-puppet-silhouette:before { content: "\f18d"; }
+.flaticon-marker-in-slanting-position:before { content: "\f18e"; }
+.flaticon-medal-with-small-ribbon:before { content: "\f18f"; }
+.flaticon-medal-with-star-shape:before { content: "\f190"; }
+.flaticon-medical-bag:before { content: "\f191"; }
+.flaticon-mirror-image-of-a-shape-of-black-and-white-variant:before { content: "\f192"; }
+.flaticon-mirror-vertically:before { content: "\f193"; }
+.flaticon-north-square-selected-in-layout:before { content: "\f194"; }
+.flaticon-northeast-symbology-layout-squares-grid:before { content: "\f195"; }
+.flaticon-nose-line:before { content: "\f196"; }
+.flaticon-object-alignment-at-the-bottom:before { content: "\f197"; }
+.flaticon-object-alignment-at-the-center:before { content: "\f198"; }
+.flaticon-object-alignment-horizontal:before { content: "\f199"; }
+.flaticon-object-alignment-to-the-center:before { content: "\f19a"; }
+.flaticon-object-alignment-to-the-left:before { content: "\f19b"; }
+.flaticon-object-alignment-to-the-right:before { content: "\f19c"; }
+.flaticon-object-alignment-to-the-top:before { content: "\f19d"; }
+.flaticon-objects-exchange:before { content: "\f19e"; }
+.flaticon-objects-transform-interface-symbol:before { content: "\f19f"; }
+.flaticon-octagon-outline-shape:before { content: "\f1a0"; }
+.flaticon-paint-brush-with-paint:before { content: "\f1a1"; }
+.flaticon-paint-bucket-with-paint-mess:before { content: "\f1a2"; }
+.flaticon-painters-palette-tool:before { content: "\f1a3"; }
+.flaticon-painters-palette-with-brush-tool:before { content: "\f1a4"; }
+.flaticon-painting-palette-outline-with-various-color-options:before { content: "\f1a5"; }
+.flaticon-painting-palette-with-one-color:before { content: "\f1a6"; }
+.flaticon-painting-with-frame-of-curved-edges:before { content: "\f1a7"; }
+.flaticon-pawn-chess-piece:before { content: "\f1a8"; }
+.flaticon-pawn-chess-piece-outline:before { content: "\f1a9"; }
+.flaticon-pencil:before { content: "\f1aa"; }
+.flaticon-pentagon-outline-shape:before { content: "\f1ab"; }
+.flaticon-pentagram-symbol-outline:before { content: "\f1ac"; }
+.flaticon-perfume-spray-container:before { content: "\f1ad"; }
+.flaticon-pet-bottle-outline:before { content: "\f1ae"; }
+.flaticon-pill:before { content: "\f1af"; }
+.flaticon-pill-symbol-with-white-details:before { content: "\f1b0"; }
+.flaticon-pipette-dropper-tool:before { content: "\f1b1"; }
+.flaticon-playing-card-with-clubs:before { content: "\f1b2"; }
+.flaticon-playing-card-with-heart-symbol:before { content: "\f1b3"; }
+.flaticon-playing-cards:before { content: "\f1b4"; }
+.flaticon-poker-chip-worth-500:before { content: "\f1b5"; }
+.flaticon-portrait-painting-variant:before { content: "\f1b6"; }
+.flaticon-pretzel-with-powdered-sugar:before { content: "\f1b7"; }
+.flaticon-puzzle-piece-outline:before { content: "\f1b8"; }
+.flaticon-puzzle-piece-outline-1:before { content: "\f1b9"; }
+.flaticon-puzzle-pieces-in-black-and-white-variant:before { content: "\f1ba"; }
+.flaticon-queen-chess-piece-outline:before { content: "\f1bb"; }
+.flaticon-rectangular-shape-outline:before { content: "\f1bc"; }
+.flaticon-rhomb-outline:before { content: "\f1bd"; }
+.flaticon-rook-chess-piece-outline:before { content: "\f1be"; }
+.flaticon-rotate-left-circular-arrow-interface-symbol:before { content: "\f1bf"; }
+.flaticon-rotating-arrow-to-the-right:before { content: "\f1c0"; }
+.flaticon-roulette-wheel-in-casino:before { content: "\f1c1"; }
+.flaticon-sausage-of-long-size:before { content: "\f1c2"; }
+.flaticon-screen-with-cracks:before { content: "\f1c3"; }
+.flaticon-skull-and-bones-outline:before { content: "\f1c4"; }
+.flaticon-skull-bones:before { content: "\f1c5"; }
+.flaticon-small-circle-outline-connected-to-another-small-circle-outline:before { content: "\f1c6"; }
+.flaticon-small-circle-outline-with-arrow-to-the-left:before { content: "\f1c7"; }
+.flaticon-soap-dispenser-variant-half-full-with-liquid-soap:before { content: "\f1c8"; }
+.flaticon-soccer-ball-variant:before { content: "\f1c9"; }
+.flaticon-softdrinks-beverage-can-container:before { content: "\f1ca"; }
+.flaticon-spade-on-playing-card:before { content: "\f1cb"; }
+.flaticon-spray-can-container:before { content: "\f1cc"; }
+.flaticon-square-boxes-of-increasing-size:before { content: "\f1cd"; }
+.flaticon-square-graphic-of-four-lines-and-four-circles-on-the-corners:before { content: "\f1ce"; }
+.flaticon-square-layout-with-black-square-on-southeast-area:before { content: "\f1cf"; }
+.flaticon-square-layout-with-boxes:before { content: "\f1d0"; }
+.flaticon-square-layouting-variant:before { content: "\f1d1"; }
+.flaticon-square-layouting-with-black-square-in-east-area:before { content: "\f1d2"; }
+.flaticon-square-layouting-with-three-black-boxes:before { content: "\f1d3"; }
+.flaticon-square-shape-outline:before { content: "\f1d4"; }
+.flaticon-star-and-crescent-silhouette-symbol:before { content: "\f1d5"; }
+.flaticon-star-graphic:before { content: "\f1d6"; }
+.flaticon-star-of-david-outline-variant:before { content: "\f1d7"; }
+.flaticon-suitcase-with-white-bands-and-details:before { content: "\f1d8"; }
+.flaticon-suitcase-with-white-lines-design:before { content: "\f1d9"; }
+.flaticon-sun-outline-with-checkered-circle:before { content: "\f1da"; }
+.flaticon-sunglasses-variant-with-shine:before { content: "\f1db"; }
+.flaticon-sunny-side-up-fried-egg:before { content: "\f1dc"; }
+.flaticon-tennis-ball:before { content: "\f1dd"; }
+.flaticon-tent:before { content: "\f1de"; }
+.flaticon-thermometer:before { content: "\f1df"; }
+.flaticon-tooth-outline-with-caries:before { content: "\f1e0"; }
+.flaticon-tooth-silhouette:before { content: "\f1e1"; }
+.flaticon-transformation-of-geometric-shapes-from-cube-to-cone-outlines:before { content: "\f1e2"; }
+.flaticon-triangle-outline-variant:before { content: "\f1e3"; }
+.flaticon-triangle-vector:before { content: "\f1e4"; }
+.flaticon-trophy-with-side-handles-variant:before { content: "\f1e5"; }
+.flaticon-two-balloons-outline:before { content: "\f1e6"; }
+.flaticon-vector-circle:before { content: "\f1e7"; }
+.flaticon-vector-curve-line:before { content: "\f1e8"; }
+.flaticon-vector-curve-with-box-tips:before { content: "\f1e9"; }
+.flaticon-vector-diagonal-line-with-box-edges:before { content: "\f1ea"; }
+.flaticon-vector-square:before { content: "\f1eb"; }
+.flaticon-water-faucet-with-water-droplet:before { content: "\f1ec"; }
+.flaticon-watering-can:before { content: "\f1ed"; }
+.flaticon-watering-can-silhouette:before { content: "\f1ee"; }
+.flaticon-whistle-making-noise-variant:before { content: "\f1ef"; }
+.flaticon-whistle-variant-with-pointed-tip:before { content: "\f1f0"; }
+.flaticon-wine-barrel-cask:before { content: "\f1f1"; }
+.flaticon-wine-bottle-with-goblet-variant:before { content: "\f1f2"; }
+.flaticon-wine-bottle-with-label-variant:before { content: "\f1f3"; }
+.flaticon-wine-glass-variant-with-white-details-on-edges:before { content: "\f1f4"; }
+.flaticon-wine-glass-with-crack-silhouette:before { content: "\f1f5"; }
+.flaticon-yin-yang-symbol-variant:before { content: "\f1f6"; }
